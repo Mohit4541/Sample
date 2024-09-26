@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.img1{
+    aspect-ratio: 2/1;
+
+   
+}
+
+.custom-shape-divider-top-1727165243 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+    top: 55px;
+    z-index: 2;
+}
+
+.custom-shape-divider-top-1727165243 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 81px;
+}
+
+.custom-shape-divider-top-1727165243 .shape-fill {
+    fill: #212529;
+}
+
+
+
+.card-img-top{
+    width: 100%;
+}
+.classh1{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.h1{
+    
+    width:200px;
+    margin: auto;
+    border-radius: 8px;
+    transition: .5s all;
+}
+
+.h1:hover{
+    background-color:  #212529;
+    color: aliceblue;
+    border: 2px solid;
+
+}
+
+hr{    
+    width: 200px;
+    margin: auto;
+}
+
+
+.row{
+    margin: auto;
+}
+
+
